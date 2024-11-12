@@ -6,3 +6,4 @@ zabbix/zabbix-java-gateway:alpine-7.0-latest
 zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
 zabbix/zabbix-server-mysql:alpine-7.0-latest
 zabbix/zabbix-agent:alpine-7.0-latest
+mysql:8.0-oracle
