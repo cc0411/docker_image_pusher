@@ -1,6 +1,3 @@
-pixman/pixman
-guovern/tv-requests
-guovern/tv-driver
 zabbix/zabbix-snmptraps:alpine-7.0-latest
 zabbix/zabbix-java-gateway:alpine-7.0-latest
 zabbix/zabbix-web-nginx-mysql:alpine-7.0-latest
