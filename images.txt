@@ -6,3 +6,4 @@ zabbix/zabbix-agent:alpine-7.0-latest
 mysql:8.0-oracle
 grafana/grafana:10.4.12
 lscr.io/linuxserver/wps-office:latest
+golang:1.24-alpine:linux/arm64/v8
