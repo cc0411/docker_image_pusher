@@ -1,1 +1,1 @@
-golang:1.24-alpine:linux/arm64/v8
+ --platform=linux/arm64/v8 golang:1.24-alpine
