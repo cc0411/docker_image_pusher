@@ -1,3 +1,1 @@
- --platform=linux/arm/v7 golang:1.24-alpine
- --platform=linux/arm/v7 alpine
---platform=linux/arm/v7  eclipse-temurin:17-jre-jammy 
+--platform=linux/arm/v8  eclipse-temurin:17-jre-jammy
