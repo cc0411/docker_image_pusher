@@ -1,1 +1,1 @@
---platform=linux/arm/v8  eclipse-temurin:17-jre-jammy
+--platform=linux/arm/v8  debian:bookworm-slim
