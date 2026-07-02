@@ -1,1 +1,1 @@
---platform=linux/arm/v8  debian:bookworm-slim
+--platform=linux/arm64  debian:bookworm-slim
